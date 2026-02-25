@@ -1,0 +1,56 @@
+{
+
+    "users": [
+        { "id": 1, "name": "Ali Valiyev", "email": "ali1@gmail.com", "age": 22, "image": "https://picsum.photos/200?random=1" },
+        { "id": 2, "name": "Malika Karimova", "email": "malika2@gmail.com", "age": 20, "image": "https://picsum.photos/200?random=2" },
+        { "id": 3, "name": "Sardor Bek", "email": "sardor3@gmail.com", "age": 25, "image": "https://picsum.photos/200?random=3" },
+        { "id": 4, "name": "Dilnoza Aliyeva", "email": "dilnoza4@gmail.com", "age": 19, "image": "https://picsum.photos/200?random=4" },
+        { "id": 5, "name": "Javohir Tursunov", "email": "javohir5@gmail.com", "age": 24, "image": "https://picsum.photos/200?random=5" },
+        { "id": 6, "name": "Aziza Karim", "email": "aziza6@gmail.com", "age": 21, "image": "https://picsum.photos/200?random=6" },
+        { "id": 7, "name": "Bobur Xasanov", "email": "bobur7@gmail.com", "age": 23, "image": "https://picsum.photos/200?random=7" },
+        { "id": 8, "name": "Madina Ortiqova", "email": "madina8@gmail.com", "age": 22, "image": "https://picsum.photos/200?random=8" },
+        { "id": 9, "name": "Shaxzod Mirza", "email": "shaxzod9@gmail.com", "age": 26, "image": "https://picsum.photos/200?random=9" },
+        { "id": 10, "name": "Nigina Qodirova", "email": "nigina10@gmail.com", "age": 20, "image": "https://picsum.photos/200?random=10" },
+        { "id": 11, "name": "Umid Raxmatov", "email": "umid11@gmail.com", "age": 27, "image": "https://picsum.photos/200?random=11" },
+        { "id": 12, "name": "Gulbahor Saidova", "email": "gulbahor12@gmail.com", "age": 23, "image": "https://picsum.photos/200?random=12" },
+        { "id": 13, "name": "Kamron Yoqubov", "email": "kamron13@gmail.com", "age": 24, "image": "https://picsum.photos/200?random=13" },
+        { "id": 14, "name": "Laylo Xamidova", "email": "laylo14@gmail.com", "age": 21, "image": "https://picsum.photos/200?random=14" },
+        { "id": 15, "name": "Bekzod Nur", "email": "bekzod15@gmail.com", "age": 28, "image": "https://picsum.photos/200?random=15" }
+      ],
+      
+    "categories": [
+        { "id": 1, "name": "Elektronika", "image": "https://picsum.photos/300?random=21" },
+        { "id": 2, "name": "Kiyim-kechak", "image": "https://picsum.photos/300?random=22" },
+        { "id": 3, "name": "Kitoblar", "image": "https://picsum.photos/300?random=23" },
+        { "id": 4, "name": "Sport", "image": "https://picsum.photos/300?random=24" },
+        { "id": 5, "name": "Maishiy texnika", "image": "https://picsum.photos/300?random=25" },
+        { "id": 6, "name": "Oziq-ovqat", "image": "https://picsum.photos/300?random=26" },
+        { "id": 7, "name": "Avto ehtiyot qismlar", "image": "https://picsum.photos/300?random=27" },
+        { "id": 8, "name": "Kosmetika", "image": "https://picsum.photos/300?random=28" },
+        { "id": 9, "name": "Bolalar mahsulotlari", "image": "https://picsum.photos/300?random=29" },
+        { "id": 10, "name": "Mebel", "image": "https://picsum.photos/300?random=30" },
+        { "id": 11, "name": "Ofis jihozlari", "image": "https://picsum.photos/300?random=31" },
+        { "id": 12, "name": "O‘yinchoqlar", "image": "https://picsum.photos/300?random=32" },
+        { "id": 13, "name": "Zargarlik buyumlari", "image": "https://picsum.photos/300?random=33" },
+        { "id": 14, "name": "Bog‘ uchun", "image": "https://picsum.photos/300?random=34" },
+        { "id": 15, "name": "Sayohat anjomlari", "image": "https://picsum.photos/300?random=35" }
+      ],
+    
+      "products": [
+        { "id": 1, "name": "iPhone 14", "price": 1000, "categoryId": 1, "image": "https://picsum.photos/400?random=41" },
+        { "id": 2, "name": "Samsung TV", "price": 800, "categoryId": 1, "image": "https://picsum.photos/400?random=42" },
+        { "id": 3, "name": "Nike krossovka", "price": 120, "categoryId": 4, "image": "https://picsum.photos/400?random=43" },
+        { "id": 4, "name": "Erkaklar kurtkasi", "price": 75, "categoryId": 2, "image": "https://picsum.photos/400?random=44" },
+        { "id": 5, "name": "JavaScript kitobi", "price": 20, "categoryId": 3, "image": "https://picsum.photos/400?random=45" },
+        { "id": 6, "name": "Kir yuvish mashinasi", "price": 500, "categoryId": 5, "image": "https://picsum.photos/400?random=46" },
+        { "id": 7, "name": "Futbol to‘pi", "price": 30, "categoryId": 4, "image": "https://picsum.photos/400?random=47" },
+        { "id": 8, "name": "Lab bo‘yog‘i", "price": 15, "categoryId": 8, "image": "https://picsum.photos/400?random=48" },
+        { "id": 9, "name": "Bolalar aravachasi", "price": 150, "categoryId": 9, "image": "https://picsum.photos/400?random=49" },
+        { "id": 10, "name": "Ofis stoli", "price": 200, "categoryId": 10, "image": "https://picsum.photos/400?random=50" },
+        { "id": 11, "name": "Printer", "price": 180, "categoryId": 11, "image": "https://picsum.photos/400?random=51" },
+        { "id": 12, "name": "O‘yinchoq mashina", "price": 25, "categoryId": 12, "image": "https://picsum.photos/400?random=52" },
+        { "id": 13, "name": "Oltin uzuk", "price": 300, "categoryId": 13, "image": "https://picsum.photos/400?random=53" },
+        { "id": 14, "name": "Bog‘ qaychisi", "price": 40, "categoryId": 14, "image": "https://picsum.photos/400?random=54" },
+        { "id": 15, "name": "Sayohat sumkasi", "price": 90, "categoryId": 15, "image": "https://picsum.photos/400?random=55" }
+      ]
+    }
